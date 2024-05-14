@@ -37,7 +37,7 @@ Projeto de automação web com Cypress, com ele você irá conseguir escrever se
 - Cypress:
     - https://www.cypress.io/
     - https://example.cypress.io/commands/actions
-    - https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests#Folder-Structure
+    <!-- - https://docs.cypress.io/guides/core-concepts/writing-and-organizing-tests#Folder-Structure -->
 
 
 ## Configurando ambiente para começar a usar o Cypress
